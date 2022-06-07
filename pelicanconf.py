@@ -85,3 +85,7 @@ EXTRA_PATH_METADATA = {
     'extra/favicon-32x32.png': {'path': 'favicon-32x32.png'},
     'extra/CNAME': {'path': 'CNAME'}
     }
+
+
+GOOGLE_ANALYTICS_ID = 'UA-69272843-2'
+# GOOGLE_ANALYTICS_PROP = 
