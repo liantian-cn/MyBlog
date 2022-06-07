@@ -1,5 +1,6 @@
 ---
 title: 迁移到pelican
+Date: 2022-06-05
 Modified: 2022-06-05
 Tags: Python
 Slug: migrate-from-hexo-to-pelican
