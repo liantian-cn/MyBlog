@@ -4,7 +4,7 @@ Date: 2022-08-02
 Modified: 2022-08-02
 tags: Python
 Slug: making-an-executable-in-cython
-Summary: 有时候cython比pyinstaller更方便。
+Summary: 有时候cython比pyinstaller更方便，比如用来做windows服务啥的。
 ---
 
 首先，使用`embed`参数生成文件main.c
