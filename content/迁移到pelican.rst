@@ -4,7 +4,7 @@
 :title: 迁移到pelican
 :Date: 2022-06-05
 :Modified: 2022-06-05
-:Tags: Python缘起
+:Tags: Python
 :Slug: migrate-from-hexo-to-pelican====
 :Summary: 把blog从hexo迁移到了pelican，(⊙﹏⊙)，又是一次瞎折腾。
 

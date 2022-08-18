@@ -73,6 +73,7 @@ CATEGORY_SAVE_AS = ''
 CATEGORIES_SAVE_AS = ''
 STATIC_PATHS = [
 'images',
+'files',
 'extra/robots.txt',
 'extra/favicon-16x16.png',
 'extra/favicon-32x32.png',
